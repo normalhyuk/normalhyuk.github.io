@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages made by Sang-Hyuk Jung
 
 You can use the [editor on GitHub](https://github.com/normalhyuk/normalhyuk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
